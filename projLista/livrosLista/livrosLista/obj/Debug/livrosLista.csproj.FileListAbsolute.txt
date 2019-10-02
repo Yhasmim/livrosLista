@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\livrosLista\livrosLista\bin\Debug\livrosLista.exe.config
+C:\Users\aluno\source\repos\livrosLista\livrosLista\bin\Debug\livrosLista.exe
+C:\Users\aluno\source\repos\livrosLista\livrosLista\bin\Debug\livrosLista.pdb
+C:\Users\aluno\source\repos\livrosLista\livrosLista\obj\Debug\livrosLista.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\livrosLista\livrosLista\obj\Debug\livrosLista.exe
+C:\Users\aluno\source\repos\livrosLista\livrosLista\obj\Debug\livrosLista.pdb
+C:\Users\aluno\source\repos\livrosLista\livrosLista\obj\Debug\livrosLista.csprojResolveAssemblyReference.cache
+E:\projLista\livrosLista\livrosLista\bin\Debug\livrosLista.exe.config
+E:\projLista\livrosLista\livrosLista\bin\Debug\livrosLista.exe
+E:\projLista\livrosLista\livrosLista\bin\Debug\livrosLista.pdb
+E:\projLista\livrosLista\livrosLista\obj\Debug\livrosLista.csprojAssemblyReference.cache
+E:\projLista\livrosLista\livrosLista\obj\Debug\livrosLista.csproj.CoreCompileInputs.cache
+E:\projLista\livrosLista\livrosLista\obj\Debug\livrosLista.exe
+E:\projLista\livrosLista\livrosLista\obj\Debug\livrosLista.pdb
